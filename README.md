@@ -2,17 +2,11 @@
 
 ---
 
-🌱 I’m currently learning 
-- Next.js 
-- React
-- React Native.
+🌱 I’m currently learning Next.js & React Native
 
-💬 Ask me about 
-- Building on AWS
-- PHP
+💬 Ask me about AWS
 
-📫 How to reach me: 
-- [twitter.com/craigdshepherd](https://twitter.com/craigdshepherd)
+📫 How to reach me: [twitter.com/craigdshepherd](https://twitter.com/craigdshepherd)
 
 
 
