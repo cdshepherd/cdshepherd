@@ -1,7 +1,6 @@
 ## Hi 👋 I'm Craig Shepherd. 
 #### DevOps Manager at prettylittlething and MD of Reflexica Group Ltd
 
----
 
 🌱 I’m currently learning Next.js & React Native
 
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 
 [![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdshepherd&count_private=true&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdshepherd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
