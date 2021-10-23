@@ -1,4 +1,5 @@
-### Hi 👋 I'm Craig. DevOps Manager at prettylittlething and MD of Reflexica Group Ltd
+## Hi 👋 I'm Craig Shepherd. 
+#### DevOps Manager at prettylittlething and MD of Reflexica Group Ltd
 
 ---
 
