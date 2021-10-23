@@ -1,12 +1,12 @@
-## Hi 👋 I'm Craig Shepherd. 
-#### DevOps Manager at prettylittlething and MD of Reflexica Group Ltd
+### Hi 👋 I'm Craig Shepherd. DevOps Manager at prettylittlething and MD of Reflexica Group Ltd
 
 
-🌱 I’m currently learning Next.js & React Native
 
-💬 Ask me about AWS
+- 🌱 I’m currently learning Next.js & React Native
 
-📫 How to reach me: [twitter.com/craigdshepherd](https://twitter.com/craigdshepherd)
+- 💬 Ask me about AWS
+  
+- 📫 How to reach me: [twitter.com/craigdshepherd](https://twitter.com/craigdshepherd)
 
 
 
